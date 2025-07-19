@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1722063344 source:c:\users\saad abbas\onedrive\documents\cpp\sorting\merge_sort\main.cpp
+	<iostream>
+	<bits/stdc++.h>
+
